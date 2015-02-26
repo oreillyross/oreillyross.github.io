@@ -1,8 +1,11 @@
 ---
-title: hello
+title: faktor 10 - saving the planet one line of code at a time 
 
 ---
 
-<code> bundle update </code>
+
+faktor 10 - saving the planet one line of code at a time
+
+
 
 
