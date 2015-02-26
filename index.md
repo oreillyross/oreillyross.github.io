@@ -1,6 +1,11 @@
 ---
-title: hello
+title: faktor 10 - saving the planet one line of code at a time 
 
 ---
 
-some text
+
+faktor 10 - saving the planet one line of code at a time
+
+
+
+
