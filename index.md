@@ -11,4 +11,6 @@ faktor 10 - saving the planet one line of code at a time
 
 <code> this is code </code>
 
+I have added a new comment now to see if this appears
+
 
